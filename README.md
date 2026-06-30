@@ -95,3 +95,12 @@ At **Noarka**, we build tools that streamline operations and improve productivit
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+*Note: Remember to replace `YOUR_GITHUB_USERNAME` in the URLs above with your real GitHub username to render your dynamic statistics.*
