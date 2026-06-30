@@ -27,6 +27,7 @@ I am the founder and owner of **Noarka**, an Australian software company enginee
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
   ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white)
   ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=flat&logo=electron&logoColor=white)
+  ![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=flat&logo=expo&logoColor=white)
 
 * **UI Systems:** 
   ![Noarka Design System](https://img.shields.io/badge/Noarka_Design_System-%2324292e.svg?style=flat)
