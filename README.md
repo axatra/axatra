@@ -6,6 +6,16 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
 
 ---
 
+## 🏢 About Noarka & Our Products
+
+At **Noarka**, we engineer high-performance software systems and intelligent AI solutions. Here are some of our flagship products and ecosystems:
+
+*   **🚀 Noarka Design System:** Our proprietary UI/UX infrastructure built for high scalability, rapid prototyping, and pixel-perfect responsiveness.
+*   **🤖 [Product Name / AI Tool]:** *Brief 1-sentence description of an AI tool or core software product you have launched.*
+*   **💻 [Product Name / Platform]:** *Brief 1-sentence description of another platform, SaaS, or marketplace developed under the Noarka umbrella.*
+
+---
+
 ## 🛠️ My Tech Stack
 
 ### 🚀 Core Languages & Frameworks
@@ -19,7 +29,7 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
 
-* **Web & Desktop:** 
+* **Web & Desktop Frameworks:** 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
@@ -27,7 +37,7 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
   ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white)
   ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=flat&logo=electron&logoColor=white)
 
-* **UI Libraries:** 
+* **UI Engine:** 
   ![Noarka Design System](https://img.shields.io/badge/Noarka_Design_System-%2324292e.svg?style=flat)
   ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/radix%20ui-151515?style=flat&logo=radix-ui&logoColor=white)
@@ -48,12 +58,12 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
 ### 🎨 Design & Tools
-* **Design Systems:** 
+* **Design & Vector:** 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white)
 
-* **IDEs & 3D:** 
+* **IDEs & 3D Engineering:** 
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
