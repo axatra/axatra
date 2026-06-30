@@ -69,11 +69,3 @@ At **Noarka**, we build tools that streamiline operations and improve productivi
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axatra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
