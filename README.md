@@ -1,6 +1,6 @@
 # Hi there, I'm Ehsan
 
-### Senior Software & AI Engineer | Founder of Noarka
+### Senior Software & AI Engineer
 
 I am a passionate Senior Software and AI Engineer with a deep-rooted love for technology—I've been writing code since I was 9 years old. What began as building simple websites evolved into a lifelong drive for full-stack engineering, advanced system design, and intelligence. 
 
