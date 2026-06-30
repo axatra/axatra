@@ -1,18 +1,46 @@
 # Hi there, I'm Ehsan! 👋
 
-### Senior Software & AI Engineer
+### Senior Software & AI Engineer | Founder of Noarka
 
 I am a passionate Senior Software and AI Engineer with a deep-rooted love for technology—I've been writing code since I was 9 years old. What began as building simple websites evolved into a lifelong drive for full-stack engineering, advanced system design, and intelligence. 
 
 I am the founder and owner of **Noarka**, an Australian software company engineering a unified, AI-powered ecosystem of modern applications designed to help businesses, developers, and organisations scale effortlessly.
 
-## The Noarka Ecosystem & Products
+---
 
-At **Noarka**, we build tools that streamiline operations and improve productivity, all accessible via a single unified account:
+## 🏢 The Noarka Ecosystem & Products
 
-*   **🧾 Invoisor:** A modern, team-focused invoice, quote, and client management platform designed to help teams collaborate, bill, and manage clients in one seamless interface.
-*   **🚗 Car Parts Marketplace:** An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
-*   **🎨 Noarka Design System:** Our proprietary UI/UX framework built for high scalability, rapid development, and precise, responsive design across all ecosystem platforms.
+At **Noarka**, we build tools that streamline operations and improve productivity, all accessible via a single unified account:
+
+<table border="0">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://noarka.com/logo.png" width="80" alt="Noarka Logo"/><br/>
+      <b>Noarka</b>
+    </td>
+    <td>
+      Our primary tech ecosystem and parent platform, uniting modern software applications with advanced AI engineering solutions to simplify business architecture.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://invoisor.com/logo.png" width="80" alt="Invoisor Logo"/><br/>
+      <b>Invoisor</b>
+    </td>
+    <td>
+      A modern, team-focused invoice, quote, and client management platform designed to help teams collaborate, bill, and manage clients in one seamless interface.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://carpartsmarket.com.au/logo.png" width="80" alt="Car Parts Logo"/><br/>
+      <b>Car Parts Marketplace</b>
+    </td>
+    <td>
+      An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,5 +93,5 @@ At **Noarka**, we build tools that streamiline operations and improve productivi
 
 * **IDEs & 3D Engineering:** 
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
