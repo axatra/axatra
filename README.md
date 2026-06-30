@@ -2,17 +2,19 @@
 
 ### Senior Software & AI Engineer | Founder of Noarka
 
-I am a passionate Senior Software and AI Engineer with a deep-rooted love for technology—I've been writing code since I was 9 years old. Today, I am the founder and owner of **Noarka**, an AI and software company dedicated to building cutting-edge digital solutions. 
+I am a passionate Senior Software and AI Engineer with a deep-rooted love for technology—I've been writing code since I was 9 years old. What began as building simple websites evolved into a lifelong drive for full-stack engineering, advanced system design, and intelligence. 
+
+I am the founder and owner of **Noarka**, an Australian software company engineering a unified, AI-powered ecosystem of modern applications designed to help businesses, developers, and organisations scale effortlessly.
 
 ---
 
-## 🏢 About Noarka & Our Products
+## 🏢 The Noarka Ecosystem & Products
 
-At **Noarka**, we engineer high-performance software systems and intelligent AI solutions. Here are some of our flagship products and ecosystems:
+At **Noarka**, we build tools that streamiline operations and improve productivity, all accessible via a single unified account:
 
-*   **🚀 Noarka Design System:** Our proprietary UI/UX infrastructure built for high scalability, rapid prototyping, and pixel-perfect responsiveness.
-*   **🤖 [Product Name / AI Tool]:** *Brief 1-sentence description of an AI tool or core software product you have launched.*
-*   **💻 [Product Name / Platform]:** *Brief 1-sentence description of another platform, SaaS, or marketplace developed under the Noarka umbrella.*
+*   **🧾 Invoisor:** A modern, team-focused invoice, quote, and client management platform designed to help teams collaborate, bill, and manage clients in one seamless interface.
+*   **🚗 Car Parts Marketplace:** An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
+*   **🎨 Noarka Design System:** Our proprietary UI/UX framework built for high scalability, rapid development, and precise, responsive design across all ecosystem platforms.
 
 ---
 
@@ -37,7 +39,7 @@ At **Noarka**, we engineer high-performance software systems and intelligent AI 
   ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=white)
   ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=flat&logo=electron&logoColor=white)
 
-* **UI Engine:** 
+* **UI Systems:** 
   ![Noarka Design System](https://img.shields.io/badge/Noarka_Design_System-%2324292e.svg?style=flat)
   ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/radix%20ui-151515?style=flat&logo=radix-ui&logoColor=white)
@@ -67,3 +69,12 @@ At **Noarka**, we engineer high-performance software systems and intelligent AI 
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+*Note: Replace `YOUR_GITHUB_USERNAME` in the block above with your actual username to load your profile statistics.*
