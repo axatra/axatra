@@ -1,4 +1,4 @@
-# Hi there, I'm Ehsan! 👋
+# Hi there, I'm Ehsan
 
 ### Senior Software & AI Engineer | Founder of Noarka
 
@@ -7,9 +7,9 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
 I am the founder and owner of **Noarka**, an Australian software company engineering a unified, AI-powered ecosystem of modern applications designed to help businesses, developers, and organisations scale effortlessly.
 
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
-### 🚀 Core Languages & Frameworks
+### Core Languages & Frameworks
 * **Languages:** 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -33,7 +33,7 @@ I am the founder and owner of **Noarka**, an Australian software company enginee
   ![Shadcn UI](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=flat&logo=shadcnui&logoColor=white)
   ![Radix UI](https://img.shields.io/badge/radix%20ui-151515?style=flat&logo=radix-ui&logoColor=white)
 
-### 🗄️ Databases & DevOps
+### Databases & DevOps
 * **Databases:** 
   ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
   ![Neon](https://img.shields.io/badge/neon-%2300E599.svg?style=flat)
@@ -48,7 +48,7 @@ I am the founder and owner of **Noarka**, an Australian software company enginee
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 
-### 🎨 Design & Tools
+### Design & Tools
 * **Design & Vector:** 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
@@ -58,12 +58,3 @@ I am the founder and owner of **Noarka**, an Australian software company enginee
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-*Note: Remember to replace `YOUR_GITHUB_USERNAME` in the URLs above with your real GitHub username to render your dynamic statistics.*
