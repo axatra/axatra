@@ -12,35 +12,14 @@ I am the founder and owner of **Noarka**, an Australian software company enginee
 
 At **Noarka**, we build tools that streamline operations and improve productivity, all accessible via a single unified account:
 
-<table border="0">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://noarka.com/logo.png" width="80" alt="Noarka Logo"/><br/>
-      <b>Noarka</b>
-    </td>
-    <td>
-      Our primary tech ecosystem and parent platform, uniting modern software applications with advanced AI engineering solutions to simplify business architecture.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://invoisor.com/logo.png" width="80" alt="Invoisor Logo"/><br/>
-      <b>Invoisor</b>
-    </td>
-    <td>
-      A modern, team-focused invoice, quote, and client management platform designed to help teams collaborate, bill, and manage clients in one seamless interface.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://carpartsmarket.com.au/logo.png" width="80" alt="Car Parts Logo"/><br/>
-      <b>Car Parts Marketplace</b>
-    </td>
-    <td>
-      An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
-    </td>
-  </tr>
-</table>
+### <img src="https://noarka.com/logo.png" width="30" valign="middle" alt="Noarka Logo"/> Noarka
+Our primary tech ecosystem and parent platform, uniting modern software applications with advanced AI engineering solutions to simplify business architecture.
+
+### <img src="https://invoisor.com/logo.png" width="30" valign="middle" alt="Invoisor Logo"/> Invoisor
+A modern, team-focused invoice, quote, and client management platform designed to help teams collaborate, bill, and manage clients in one seamless interface.
+
+### <img src="https://carpartsmarket.com.au/logo.png" width="30" valign="middle" alt="Car Parts Logo"/> Car Parts Marketplace
+An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
 
 ---
 
