@@ -2,7 +2,7 @@
 
 ### Senior Software & AI Engineer
 
-I am a passionate Senior Software and AI Engineer with a deep-rooted love for technology—I've been writing code since I was 9 years old. What began as building simple websites evolved into a lifelong drive for full-stack engineering, advanced system design, and intelligence. 
+I am a passionate Senior Software and AI Engineer with a love for technology. I've been writing code since I was 9 years old. What began as building simple websites evolved into a lifelong drive for full-stack engineering, advanced system design, and intelligence. 
 
 I am the founder and owner of **Noarka**, an Australian software company engineering a unified, AI-powered ecosystem of modern applications designed to help businesses, developers, and organisations scale effortlessly.
 
