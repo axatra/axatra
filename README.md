@@ -74,7 +74,6 @@ At **Noarka**, we build tools that streamiline operations and improve productivi
 
 ## 📊 GitHub Stats
 
-[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axatra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axatra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-*Note: Replace `YOUR_GITHUB_USERNAME` in the block above with your actual username to load your profile statistics.*
