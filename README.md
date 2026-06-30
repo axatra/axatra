@@ -6,8 +6,6 @@ I am a passionate Senior Software and AI Engineer with a deep-rooted love for te
 
 I am the founder and owner of **Noarka**, an Australian software company engineering a unified, AI-powered ecosystem of modern applications designed to help businesses, developers, and organisations scale effortlessly.
 
----
-
 ## 🏢 The Noarka Ecosystem & Products
 
 At **Noarka**, we build tools that streamline operations and improve productivity, all accessible via a single unified account:
@@ -21,7 +19,6 @@ A modern, team-focused invoice, quote, and client management platform designed t
 ### <img src="https://carpartsmarket.com.au/logo.png" width="30" valign="middle" alt="Car Parts Logo"/> Car Parts Marketplace
 An automotive parts marketplace connecting suppliers and mechanics across Australia, enabling users to search, compare prices, and order components from verified sellers.
 
----
 
 ## 🛠️ My Tech Stack
 
